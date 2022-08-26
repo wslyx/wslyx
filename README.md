@@ -21,7 +21,8 @@
 
 ## 🌐 找到我
 
-<a href="https://superyaxi.top"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=我的网站%20-%20%E4%BB%A3%E7%A0%81%E6%97%A5%E8%AE%B0&color=pink"/></a> 
+<a href="https://superyaxi.top"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=CodingDiary%20-%20%E4%BB%A3%E7%A0%81%E6%97%A5%E8%AE%B0&color=pink"/></a>
+
 <!-- <a href="https://www.zhihu.com/column/xkcoding"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=xkcoding&color=0084FF&logo=Zhihu"/></a>  -->
 <a href="mailto:237497819@qq.com"><img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1968183263@qq.com&color=3ABFE6&logo=Minutemailer"/></a> 
 <!-- <img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat"/> -->
